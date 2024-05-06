@@ -20,4 +20,4 @@ The dataset used in this project is the "Airbnb Open Data" from Kaggle, which in
 
 1. Clone the repository to your local machine.
 2. Unzip the dataset file in the Data folder.
-3. Open the Jupyter notebook and run the cells to see the analysis and the models in actio
+3. Open the Jupyter notebook and run the cells to see the analysis and the models in action
