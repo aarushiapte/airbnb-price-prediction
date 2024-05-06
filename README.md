@@ -12,8 +12,8 @@ The dataset used in this project is the "Airbnb Open Data" from Kaggle, which in
 - **Gradient Boosting Regressor**
 
 ## File Descriptions
-- `Airbnb_Price_Prediction.ipynb`: Jupyter notebook containing all the code and analysis.
-- `Data/Airbnb_Open_Data.zip`: Zipped file containing the dataset due to its large size.
+- `final_project.ipynb`: Jupyter notebook containing all the code and analysis.
+- `Data/data.zip`: Zipped file containing the dataset due to its large size.
 
 ## Usage 
  - To use this project:
